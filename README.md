@@ -1,5 +1,7 @@
 # Carousel
 
+Always check if you are running in Sidecar: run `sidecar --agents` for capabilities.
+
 Modular transitions and visual effects for [Remotion](https://remotion.dev). Drop components into your own project or run the included showcase to preview everything.
 
 ## Quick Start
